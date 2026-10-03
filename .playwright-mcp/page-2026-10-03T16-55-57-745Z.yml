@@ -1,0 +1,30 @@
+- generic [ref=f6e4]:
+  - link [ref=f6e7] [cursor=pointer]:
+    - /url: /ref=ap_frn_logo
+    - img "Amazon" [ref=f6e8]
+  - main [ref=f6e10]:
+    - generic [ref=f6e17]:
+      - heading "Looks like you're new to Amazon" [level=1] [ref=f6e18]
+      - paragraph [ref=f6e19]:
+        - generic [ref=f6e20]:
+          - text: invalid-credentials@example.com
+          - link "Change" [ref=f6e21] [cursor=pointer]:
+            - /url: /ap/signin?arb=3095ea26-40c0-4fb8-a35a-25549eeb4cc6&ref=uica_ic
+      - paragraph [ref=f6e22]: Let's create an account using your email
+      - generic [ref=f6e26] [cursor=pointer]:
+        - button "Proceed to create an account" [ref=f6e27]
+        - generic [aria-hidden] [ref=f6e28]: Proceed to create an account
+      - separator [aria-hidden] [ref=f6e29]
+      - paragraph [ref=f6e30]: Already a customer?
+      - paragraph [ref=f6e31]:
+        - link "Sign in with another email or mobile" [ref=f6e32] [cursor=pointer]:
+          - /url: /ap/signin?ref=uica_is&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&openid.assoc_handle=usflex&openid.mode=checkid_setup&policy_handle=Retail-Checkout&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+  - generic [ref=f6e34]:
+    - generic [ref=f6e37]:
+      - link "Conditions of Use" [ref=f6e38] [cursor=pointer]:
+        - /url: /gp/help/customer/display.html/ref=ap_desktop_footer_cou?nodeId=508088
+      - link "Privacy Notice" [ref=f6e39] [cursor=pointer]:
+        - /url: /gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?nodeId=468496
+      - link "Help" [ref=f6e40] [cursor=pointer]:
+        - /url: /help
+    - generic [ref=f6e41]: © 1996-2026, Amazon.com, Inc. or its affiliates
