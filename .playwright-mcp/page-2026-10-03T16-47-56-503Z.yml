@@ -1,0 +1,13 @@
+- table [ref=f1e7]:
+  - rowgroup [ref=f1e8]:
+    - row [ref=f1e9]:
+      - cell [ref=f1e10]
+      - cell [ref=f1e12]:
+        - heading "Looking for Something?" [level=1] [ref=f1e14]
+        - generic [ref=f1e15]:
+          - text: We're sorry. The Web address you entered is not a functioning page on our site
+          - generic [ref=f1e16]:
+            - text: Go to Amazon.com's
+            - link "Home" [ref=f1e18] [cursor=pointer]:
+              - /url: https://www.amazon.com
+            - text: Page
